@@ -19,6 +19,6 @@ and open the template in the editor.
             $_SESSION["val02"]=$valor02;
             $_SESSION["val03"]=3;
         ?>
-        <a href="VerSesion.php">VER VALORES DE LA SESIÓN</a>
+        <a href="VerSesion.php">ver valores de la sesión</a>
     </body>
 </html>
